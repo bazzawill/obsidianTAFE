@@ -13,92 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me.md",
+                "file": "HTB IAD.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "71da243749c6ddef",
+            "id": "e0975aba1a8c9e8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me.md",
+                "file": "Active Directory.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fa96df89304deb8a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
-            "id": "7e1a45806d8745d9",
+            "id": "84ecce8316929508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Powershell.md",
+                "file": "Services SA/Services Australia.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5b257b0410080a41",
+            "id": "1aeb24114c8ac926",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try Hack Me.md",
+                "file": "Cover Letters/OZ Global.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "4bb1e9cd2292b3a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Powershell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4718f9bb64354b87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83f683d6fcf56b9a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cover Letters/OZ Global.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cover Letters/OZ Global.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cover Letters/OZ Global.md"
+              }
             }
           }
         ],
@@ -209,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83f683d6fcf56b9a",
+  "active": "f0cc516d69bfde7a",
   "lastOpenFiles": [
-    "test.md",
-    "Powershell.md",
-    "Python arguments.md",
+    "Services SA/Services Australia.md",
+    "Cover Letters/OZ Global.md",
+    "Active Directory.md",
+    "HTB IAD.md",
     "Try Hack Me.md",
-    "TMUX.md",
+    "Powershell.md",
+    "test.md",
+    "Powershell commands.md",
     "Physical Security.md",
-    "Pasted image 20221130120651.png",
-    "msfvenom.md",
-    "YouTube/John_hammond.md",
-    "k .md"
+    "Windows_cheatsheet-HTB1.md"
   ]
 }

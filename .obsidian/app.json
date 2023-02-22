@@ -6,5 +6,11 @@
     "margin": "2",
     "downscalePercent": 100
   },
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-GB",
+    "en-AU",
+    "en-US"
+  ]
 }
