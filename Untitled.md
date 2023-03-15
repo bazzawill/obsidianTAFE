@@ -1,0 +1,9 @@
+I am a AuDHD father to twin ND 5 year old boys (one who is definately PDA). I also identify as gender non-binary (which will be relevant to some posts but is not evident from my Facebook profile due to family reasons). The best way to describe my gender is a bearded dress wearing person.
+
+I first identified my neurodivergence in 2018 and the topic became my monotropic intrest for up to 4 years. During this time I identified my boys neurodivergence and we started access support services for them at the end of 2021. I was diagnosed last year and started accessing professional support in addition to community support and my own research.
+
+Recently as my boys started school certain behaviours started to escalate and his psychologist turned me on to PDA. While I was aware from my research her pointing it out was the ah ha moment. She directed me to some fantastic resources and we have been radically modifying our parenting paradigm to support his nervous system. While we were already into gentle parenting this is next level. It is really hard and completely against my instinct but it definitely works when my nervous system is regulated enough to do it.
+
+I also have started to identify demand avoidance in myself and would say it is becoming a serious issue in my life. I have identified cPTSD with my therapist and I am waiting on a specialist psychologist to work through this. However, this was around negative feedback / responses and not demand.
+
+I will add in the comments what I am currently facing which seems to be a perfect storm of PDA. No need to reply if suggestions have already been made as I will go through previous posts. 

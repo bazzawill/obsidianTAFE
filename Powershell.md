@@ -28,6 +28,9 @@ Set-PSReadLineOption -Colors @{ InLinePrediction = '#00cc00'
 Set-PSReadLineKeyHandler -Key Tab -Function MenuComplete
 Set-PSReadLineKeyHandler -Key F1 -Function ShowCommandHelp 
 
+function dwr ($url){
+    Invoke-WebRequest $url -OutFile $url.split("/")[-1]
+}
 ```
 
 # Tmux using WSL

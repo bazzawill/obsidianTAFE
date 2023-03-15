@@ -1,0 +1,4 @@
+I am also identifying with it myself as internalised PDA
+Like when I don't want to talk to you because I am disregulated (not because I am angry with you)
+I was also reflecting in my OT session when he talked about using apps and reminders (my experience is that does not work for me because it is a demand). I am able to do housework but on my own terms. However, it would be nice to have something remind me about things. Unfortunately I think it will backfire. 
+I was not able to articulate as I did not realise but I think it is also impacting me doing TRT. There are actually several demands that are required to put all that in place. Doing all of them seems impossible. Combined with rejection sensitivity and genuine anxiety about the classroom. However, I was able to reach out to one school (paralowie) yesterday just to start the process.

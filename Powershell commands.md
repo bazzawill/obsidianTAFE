@@ -50,10 +50,18 @@ Type
 
 ### output into clipboard
 ```powershell
-(Get-WmiObject -Class win32_OperatingSystem).serialnumber|clip
+(Get-WmiObject -Class win32_OperatingSystem).serialnumber|Set-Clipboard
 ```
 
 ### XML to object
 ```powershell
 [xml]$GpoXml=get-GPOReport -Name "Default Domain Policy" -ReportType xml
 ```
+
+### Download file
+```powershell
+function Get-URL ($url){
+    Invoke-WebRequest $url -OutFile $url.split("/")[-1]
+}
+```
+or use `curl.exe -O`
