@@ -28,9 +28,10 @@ Set-PSReadLineOption -Colors @{ InLinePrediction = '#00cc00'
 Set-PSReadLineKeyHandler -Key Tab -Function MenuComplete
 Set-PSReadLineKeyHandler -Key F1 -Function ShowCommandHelp 
 
-function dwr ($url){
+function Download-WebRequest ($url){
     Invoke-WebRequest $url -OutFile $url.split("/")[-1]
 }
+Set-Alias -Name dwr -Value Download-WebRequest
 ```
 
 # Tmux using WSL

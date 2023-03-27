@@ -73,14 +73,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Powershell.md",
+                "file": "Powershell/Powershell commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5aa19d2da6bc840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ecb4c8369d74751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Commands I forget.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd63fb565120db73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Commands I forget.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -146,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Powershell.md",
+                "file": "Linux/Commands I forget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Powershell.md",
+                "file": "Linux/Commands I forget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Powershell.md"
+                "file": "Linux/Commands I forget.md"
               }
             }
           }
@@ -208,12 +244,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9568b3559ce7d2f7",
+  "active": "cd63fb565120db73",
   "lastOpenFiles": [
-    "Powershell commands.md",
-    "Powershell.md",
-    "Services SA/Services Australia.md",
+    "Untitled 2.md",
     "Untitled 1.md",
+    "Untitled 4.md",
+    "Linux/Commands I forget.md",
+    "Powershell",
+    "Linux",
+    "Powershell/Powershell commands.md",
+    "Powershell/Powershell.md",
+    "Services SA/Services Australia.md",
     "Untitled.md",
     "Cover Letters/OZ Global.md",
     "Active Directory.md",
