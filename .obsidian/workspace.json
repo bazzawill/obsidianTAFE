@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da1a2f7d32bf0ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Us.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Commands I forget.md",
+                "file": "Us.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Commands I forget.md",
+                "file": "Us.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Commands I forget.md"
+                "file": "Us.md"
               }
             }
           }
@@ -244,12 +256,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd63fb565120db73",
+  "active": "da1a2f7d32bf0ba9",
   "lastOpenFiles": [
+    "Linux/Commands I forget.md",
+    "Us.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled 4.md",
-    "Linux/Commands I forget.md",
     "Powershell",
     "Linux",
     "Powershell/Powershell commands.md",
